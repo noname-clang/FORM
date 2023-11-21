@@ -1,0 +1,39 @@
+
+
+section{
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: burlywood;
+    border-color: black;
+    border-style: solid;
+}
+
+.formulario{
+    display: flex;
+    flex-direction:  column;
+    padding: 30px;
+    color: white;
+}
+
+input{
+    border-style: none;
+    outline-color: burlywood;
+    border-color: black;
+    border-style: solid;
+    margin: 5px 0;
+}
+
+button{
+    margin-top: 10px;
+    background-color: black;
+    border-color: crimson;
+    color: white;
+}
+
+label{
+    color: black;
+}
+
+body{
+    background-color: rgb(8, 218, 255);
+}
